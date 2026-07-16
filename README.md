@@ -1,4 +1,7 @@
 # Kaldiras
+
+> **Created by Antono**
+
 Kaldiras is a video player for ReactJS. Simple, accessible, and easy to customize.
 
 ## Features
