@@ -1,2 +1,32 @@
-Last updated: 2026-08-20 07:53:04 WIB
-Last updated: 2026-08-20 08:00:17 WIB
+# kaldiras
+
+Kaldiras is a video player for ReactJS. Simple, accessible, and easy to customize.
+
+## 📋 Overview
+
+This repository contains **45 files** and is built with the following technologies:
+
+Node.js, CSS, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, CSS, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-20 08:37:18 WIB*
